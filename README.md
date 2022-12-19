@@ -1,2 +1,2 @@
 # django-api-proj
-djangoapi
+djangoapi for library management
